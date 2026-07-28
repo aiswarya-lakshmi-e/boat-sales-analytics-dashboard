@@ -1,0 +1,8 @@
+ChannelID,ChannelName,ChannelType,ChannelScope,RegionScope,BaseShare
+1,Amazon India,Online Marketplace,Online,National,0.34
+2,Flipkart,Online Marketplace,Online,National,0.28
+3,boAt Official Website,D2C,Online,National,0.12
+4,Croma,Offline Retail,Offline,Multi-city,0.09
+5,Reliance Digital,Offline Retail,Offline,Multi-city,0.07
+6,Vijay Sales,Offline Retail,Offline,Multi-city,0.05
+7,Local Multi-brand Retail,Offline Retail,Offline,Regional,0.05

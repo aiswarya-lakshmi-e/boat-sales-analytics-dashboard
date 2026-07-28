@@ -1,0 +1,107 @@
+ProductID,Brand,Category,SubCategory,ProductName,HeroFlag,LaunchYear,MRP,CostPrice,PopularityWeight,DemandCluster
+1001,boAt,True Wireless Earbuds,Airdopes,boAt Airdopes 141,1,2024,9900.0,4445.96,0.13866449462707,Hero
+1002,boAt,True Wireless Earbuds,Airdopes,boAt Airdopes 161,1,2025,6470.0,3185.78,0.06119978244322207,Hero
+1003,boAt,True Wireless Earbuds,Airdopes,boAt Airdopes 131,1,2025,1490.0,770.25,0.037928196524259015,Hero
+1004,boAt,True Wireless Earbuds,Airdopes,boAt Airdopes 181 Pro,1,2023,9050.0,3979.68,0.02701061566748417,Hero
+1005,boAt,True Wireless Earbuds,Airdopes,boAt Airdopes 311 Pro,0,2022,7670.0,3975.72,0.005930791052766547,Core
+1006,boAt,True Wireless Earbuds,Airdopes,boAt Airdopes Alpha,0,2024,8910.0,4493.72,0.004782761816552034,Core
+1007,boAt,True Wireless Earbuds,Airdopes,boAt Airdopes 148,0,2024,5940.0,2567.67,0.003987324136114986,Core
+1008,boAt,True Wireless Earbuds,Airdopes,boAt Airdopes Supreme,0,2023,7970.0,3714.45,0.0034060501973347973,Core
+1009,boAt,True Wireless Earbuds,Airdopes,boAt Nirvana Ion ANC,0,2022,10950.0,5327.54,0.0029640878262141273,Core
+1010,boAt,True Wireless Earbuds,Airdopes,boAt Nirvana Ivy,0,2024,1680.0,811.74,0.0026175635163254198,LongTail
+1011,boAt,True Wireless Earbuds,Airdopes,boAt Nirvana Zenith,0,2025,5190.0,2237.07,0.002339127314589014,LongTail
+1012,boAt,True Wireless Earbuds,Airdopes,boAt Airdopes Loop,0,2025,7370.0,3613.81,0.002110879093007508,LongTail
+1013,boAt,True Wireless Earbuds,Airdopes,boAt True Series 13,0,2022,6080.0,2995.25,0.0019206316137235075,LongTail
+1014,boAt,True Wireless Earbuds,Airdopes,boAt True Series 14,0,2021,10000.0,5064.59,0.0017598114810653724,LongTail
+1015,boAt,True Wireless Earbuds,Airdopes,boAt True Series 15,0,2024,2850.0,1468.37,0.0016222192220050331,LongTail
+1016,boAt,True Wireless Earbuds,Airdopes,boAt True Series 16,0,2024,6480.0,2956.76,0.001503265357351901,LongTail
+1017,boAt,True Wireless Earbuds,Airdopes,boAt True Series 17,0,2025,4110.0,2016.74,0.0013994825949022324,LongTail
+1018,boAt,True Wireless Earbuds,Airdopes,boAt True Series 18,0,2023,5170.0,2309.73,0.0013082046027339319,LongTail
+1019,boAt,True Wireless Earbuds,Airdopes,boAt True Series 19,0,2022,4580.0,2368.73,0.0012273487360568729,LongTail
+1020,boAt,True Wireless Earbuds,Airdopes,boAt True Series 20,0,2024,7100.0,3131.28,0.0011552655794207752,LongTail
+1021,boAt,True Wireless Earbuds,Airdopes,boAt True Series 21,0,2023,2890.0,1298.67,0.0010906325649346653,LongTail
+1022,boAt,True Wireless Earbuds,Airdopes,boAt True Series 22,0,2021,4670.0,2133.69,0.001032377344646518,LongTail
+1023,boAt,True Wireless Earbuds,Airdopes,boAt True Series 23,0,2022,4100.0,1990.72,0.0009796216673613176,LongTail
+1024,boAt,True Wireless Earbuds,Airdopes,boAt True Series 24,0,2024,6220.0,3186.43,0.0009316396501025135,LongTail
+1025,boAt,True Wireless Earbuds,Airdopes,boAt True Series 25,0,2021,3870.0,1772.12,0.0008878263258493972,LongTail
+1026,boAt,True Wireless Earbuds,Airdopes,boAt True Series 26,0,2024,6740.0,3259.69,0.0008476736401021479,LongTail
+1027,boAt,True Wireless Earbuds,Airdopes,boAt True Series 27,0,2023,3460.0,1704.54,0.000810751922402103,LongTail
+1028,boAt,True Wireless Earbuds,Airdopes,boAt True Series 28,0,2023,4550.0,2115.1,0.0007766954336215498,LongTail
+1029,boAt,Neckbands,Neckbands,boAt Rockerz 255 Pro+,1,2022,2010.0,897.84,0.06841150367147808,Hero
+1030,boAt,Neckbands,Neckbands,boAt Rockerz 110,1,2024,4490.0,2069.53,0.030193519635781423,Hero
+1031,boAt,Neckbands,Neckbands,boAt Rockerz 330,1,2024,1160.0,515.69,0.01871225191964423,Hero
+1032,boAt,Neckbands,Neckbands,boAt Rockerz 245 V2,1,2022,3430.0,1409.02,0.013325955125532493,Hero
+1033,boAt,Neckbands,Neckbands,boAt Rockerz 450 ANC,0,2023,2240.0,1071.87,0.002926014586302763,Core
+1034,boAt,Neckbands,Neckbands,boAt Rockerz 650 Pro,0,2021,2590.0,1152.18,0.0023596229766879315,Core
+1035,boAt,Neckbands,Neckbands,boAt Neckbands Series 7,0,2023,3480.0,1602.18,0.001967185908049686,Core
+1036,boAt,Neckbands,Neckbands,boAt Neckbands Series 8,0,2024,4660.0,2122.12,0.001680408645391763,Core
+1037,boAt,Neckbands,Neckbands,boAt Neckbands Series 9,0,2023,3390.0,1424.03,0.00146236212630342,LongTail
+1038,boAt,Neckbands,Neckbands,boAt Neckbands Series 10,0,2024,1490.0,637.69,0.001291400921259805,LongTail
+1039,boAt,Neckbands,Neckbands,boAt Neckbands Series 11,0,2022,4080.0,1825.39,0.0011540316596576074,LongTail
+1040,boAt,Neckbands,Neckbands,boAt Neckbands Series 12,0,2023,1720.0,778.53,0.0010414231358193556,LongTail
+1041,boAt,Neckbands,Neckbands,boAt Neckbands Series 13,0,2025,2930.0,1369.7,0.0009475626550774738,LongTail
+1042,boAt,Neckbands,Neckbands,boAt Neckbands Series 14,0,2023,2810.0,1199.71,0.0008682204476481053,LongTail
+1043,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Wave Sigma 3,1,2024,6530.0,3207.42,0.05472920293718246,Hero
+1044,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Wave Call 2,1,2022,4200.0,2183.15,0.024154815708625137,Hero
+1045,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Wave Electra,1,2023,11600.0,5606.89,0.014969801535715385,Hero
+1046,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Lunar Prime,1,2025,10750.0,5444.38,0.010660764100425994,Hero
+1047,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Lunar Discovery,0,2024,7290.0,4064.48,0.0023408116690422105,Core
+1048,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Ultima Chronos,0,2023,2320.0,1295.71,0.0018876983813503451,Core
+1049,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Enigma X600,0,2022,5780.0,2885.4,0.0015737487264397489,Core
+1050,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Wave Fury,0,2023,4610.0,2345.77,0.0013443269163134106,Core
+1051,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Smart Series 9,0,2025,8260.0,4582.41,0.001169889701042736,LongTail
+1052,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Smart Series 10,0,2025,5300.0,2809.38,0.001033120737007844,LongTail
+1053,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Smart Series 11,0,2025,4230.0,2293.89,0.0009232253277260859,LongTail
+1054,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Smart Series 12,0,2022,2870.0,1432.85,0.0008331385086554846,LongTail
+1055,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Smart Series 13,0,2022,2580.0,1333.21,0.0007580501240619791,LongTail
+1056,boAt,Smart Watches,Wave / Lunar / Ultima,boAt Smart Series 14,0,2025,5260.0,2640.91,0.0006945763581184842,LongTail
+1057,boAt,Headphones,Rockerz,boAt Rockerz 450,1,2023,8260.0,4034.04,0.037514409982294515,Hero
+1058,boAt,Headphones,Rockerz,boAt Rockerz 551 ANC,1,2024,1700.0,786.47,0.016557041047723712,Hero
+1059,boAt,Headphones,Rockerz,boAt Rockerz 650 Pro,1,2023,5910.0,2927.52,0.010261126455815329,Hero
+1060,boAt,Headphones,Rockerz,boAt Rockerz 610,1,2021,5190.0,2401.55,0.007307474871266542,Hero
+1061,boAt,Headphones,Rockerz,boAt Rockerz 660,0,2024,5060.0,2675.05,0.0016045212415130667,Core
+1062,boAt,Headphones,Rockerz,boAt Headphones Series 6,0,2023,1490.0,687.61,0.0012939324382664997,Core
+1063,boAt,Headphones,Rockerz,boAt Headphones Series 7,0,2022,6420.0,3018.66,0.0010787340535643832,Core
+1064,boAt,Headphones,Rockerz,boAt Headphones Series 8,0,2024,1160.0,536.34,0.0009214757091693779,Core
+1065,boAt,Headphones,Rockerz,boAt Headphones Series 9,0,2023,2960.0,1429.56,0.0008019068344436693,LongTail
+1066,boAt,Headphones,Rockerz,boAt Headphones Series 10,0,2023,4500.0,2057.45,0.0007081578537477927,LongTail
+1067,boAt,Wireless Speakers,Stone,boAt Stone 180,1,2023,9710.0,4779.83,0.042203711230081334,Hero
+1068,boAt,Wireless Speakers,Stone,boAt Stone 193 Pro,1,2023,6290.0,3585.44,0.018626671178689175,Hero
+1069,boAt,Wireless Speakers,Stone,boAt Stone 352 Pro,1,2023,6020.0,2949.95,0.011543767262792243,Hero
+1070,boAt,Wireless Speakers,Stone,boAt Stone 260,1,2023,6050.0,3473.76,0.008220909230174859,Hero
+1071,boAt,Wireless Speakers,Stone,boAt Stone 650,0,2024,4930.0,2409.18,0.0018050863967022,Core
+1072,boAt,Wireless Speakers,Stone,boAt Stone 1000,0,2023,1620.0,877.87,0.001455673993049812,Core
+1073,boAt,Wireless Speakers,Stone,boAt Wireless Series 7,0,2022,8920.0,4509.76,0.0012135758102599311,Core
+1074,boAt,Wireless Speakers,Stone,boAt Wireless Series 8,0,2023,3290.0,1878.03,0.00103666017281555,Core
+1075,boAt,Wireless Speakers,Stone,boAt Wireless Series 9,0,2024,4780.0,2387.27,0.0009021451887491279,LongTail
+1076,boAt,Wireless Speakers,Stone,boAt Wireless Series 10,0,2023,6320.0,3329.14,0.0007966775854662668,LongTail
+1077,boAt,Soundbars,Soundbars,boAt Aavante Bar 3150,1,2024,17500.0,11514.51,0.02946081936887373,Hero
+1078,boAt,Soundbars,Soundbars,boAt Aavante Bar 4800,1,2025,20250.0,13067.08,0.0130025767650413,Hero
+1079,boAt,Soundbars,Soundbars,boAt Aavante Bar 5400D,1,2022,25700.0,16220.45,0.008058268627405373,Hero
+1080,boAt,Soundbars,Soundbars,boAt Aavante Bar 5500DA,1,2023,5590.0,3713.03,0.0057387067350006035,Hero
+1081,boAt,Soundbars,Soundbars,boAt Soundbars Series 5,0,2024,6990.0,4291.97,0.0012600627463432714,Core
+1082,boAt,Soundbars,Soundbars,boAt Soundbars Series 6,0,2023,14000.0,8441.74,0.0010161511231893865,Core
+1083,boAt,Power Banks,Energyshroom,boAt Energyshroom PB300,1,2023,5520.0,2735.96,0.024984393092066036,Hero
+1084,boAt,Power Banks,Energyshroom,boAt Energyshroom PB400 Pro,1,2022,4330.0,2345.76,0.011026899321435116,Hero
+1085,boAt,Power Banks,Energyshroom,boAt Energyshroom PB500,1,2023,5020.0,2672.13,0.006833854432483017,Hero
+1086,boAt,Power Banks,Energyshroom,boAt Energyshroom PB1000,1,2024,1340.0,636.48,0.004866738535413083,Hero
+1087,boAt,Power Banks,Energyshroom,boAt Power Series 5,0,2025,680.0,325.3,0.0010686024234808013,Core
+1088,boAt,Wired Earphones,Bassheads,boAt Bassheads 102,1,2022,720.0,280.02,0.01998751447365283,Hero
+1089,boAt,Wired Earphones,Bassheads,boAt Bassheads 122,1,2025,840.0,323.37,0.008821519457148092,Hero
+1090,boAt,Wired Earphones,Bassheads,boAt Bassheads 152,1,2023,1260.0,507.02,0.005467083545986414,Hero
+1091,boAt,Wired Earphones,Bassheads,boAt Bassheads 220,1,2023,890.0,396.7,0.003893390828330466,Hero
+1092,boAt,Wired Earphones,Bassheads,boAt Bassheads 242,0,2025,740.0,314.94,0.0008548819387846409,Core
+1093,boAt,Gaming Headphones,Gaming Rockerz,boAt Immortal 131,1,2025,7130.0,3919.37,0.020435174553215116,Hero
+1094,boAt,Gaming Headphones,Gaming Rockerz,boAt Immortal 171,1,2021,5840.0,2915.03,0.009019094903922765,Hero
+1095,boAt,Gaming Headphones,Gaming Rockerz,boAt Immortal 191,1,2022,1570.0,802.1,0.005589529739003363,Hero
+1096,boAt,Gaming Headphones,Gaming Rockerz,boAt Immortal 311,1,2022,3670.0,1860.11,0.0039805910477612,Hero
+1097,boAt,Party Speakers,PartyPal,boAt PartyPal 20,1,2024,20350.0,12506.94,0.0135374300766043,Hero
+1098,boAt,Party Speakers,PartyPal,boAt PartyPal 68 Pro,1,2024,5910.0,3734.39,0.005974765045346922,Hero
+1099,boAt,Projectors,Cinehead,boAt Cinehead M1,1,2022,29300.0,20725.47,0.010153072557453225,Hero
+1100,boAt,Projectors,Cinehead,boAt Cinehead E1,1,2024,11250.0,8138.81,0.004481073784010191,Hero
+1101,boAt,Dashcams,Drive,boAt Drive X1,1,2024,14850.0,9314.05,0.010153072557453225,Hero
+1102,boAt,Dashcams,Drive,boAt Drive X2,1,2023,7360.0,4471.28,0.004481073784010191,Hero
+1103,boAt,Chargers & Cables,Accessories,boAt EnergyBoost 20W Charger,1,2025,1150.0,490.79,0.012771984095759447,Hero
+1104,boAt,Chargers & Cables,Accessories,boAt 33W GaN Charger,1,2023,1140.0,481.82,0.0056369343149517285,Hero
+1105,boAt,Chargers & Cables,Accessories,boAt Type-C Cable,1,2025,840.0,369.35,0.003493456086877102,Hero
+1106,boAt,Chargers & Cables,Accessories,boAt Braided USB-C Cable,1,2023,1150.0,520.37,0.00248786940485075,Hero
