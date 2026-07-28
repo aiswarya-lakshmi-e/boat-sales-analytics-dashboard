@@ -8,7 +8,7 @@ Built on a simulated 2-year (2023–2024) sales dataset for boAt, an Indian audi
 
 ## 📊 Dashboard Preview
 
-![Executive Overview](images/dashboard_screenshots/01_executive_overview.png)
+[![Executive Overview](images/dashboard_screenshots/01_executive_overview.png)](https://github.com/aiswarya-lakshmi-e/boat-sales-analytics-dashboard/blob/main/Executive%20Overview.png)
 
 *See `images/dashboard_screenshots/` for all 5 dashboard pages.*
 
