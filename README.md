@@ -1,4 +1,4 @@
-# boAt Sales Analytics Dashboard
+# boAt Sales Analytics Dashboard  Every festival sale ran at a loss while non-festival periods held a 22.76% margin
 
 An end-to-end data analytics project covering the full pipeline from raw data to an interactive business dashboard — **SQL → Python → Power BI**.
 
